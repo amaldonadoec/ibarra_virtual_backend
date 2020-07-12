@@ -1,0 +1,42 @@
+.m-login.m-login--1 .m-login__wrapper {
+    padding-top: 10%;
+}
+.login-background{
+    height: 100vh;
+}
+
+.m-login__logo{
+    width: 150px;
+}
+
+
+.m-login.m-login--1 .m-login__wrapper {
+    padding-bottom: 0px;
+}
+
+.m-login.m-login--1 .m-login__aside {
+    padding-bottom: 0px;
+    padding-top: 5px;
+}
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+    .login-background{
+        height: 100%;
+    }
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen and (min-width: 321px) {
+
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+    /* Styles */
+    .login-background{
+        height: 100%;
+    }
+
+
+}
